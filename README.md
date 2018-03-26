@@ -1,10 +1,13 @@
-# Thinking With Portals
+# Portals is an AR experiment that reinterprets René Magritte's paintings as augmented reality sculptures.
 
 <p align="center">
-  <img src="readme_img/example-run.gif" width="266">
+  <img src="readme_img/portals-gif01.gif" width="266">
+ <img src="readme_img/portals-gif02.gif" width="266">
+<img src="readme_img/portals-gif03.gif" width="266">
 </p>
 
-This project shows you how to setup basic ARKit portals inside Unity using a combination of Render Textures, Depth Masks, and Layers.
+In this experiment four of Magritte’s paintings were treated with an AR reinterpretation to live in digital 3D space and be explored from different points of view.
+
 
 Software Used:
 - Unity 2017.1.1
@@ -12,4 +15,3 @@ Software Used:
 - Xcode 9
 - iOS 11
 
-Portal shader from https://github.com/pr0g/unity-portal-rendering
